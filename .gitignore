@@ -1,0 +1,91 @@
+# ==============================
+
+# Python
+
+# ==============================
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+
+venv/
+.env/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# ==============================
+
+# Streamlit
+
+# ==============================
+
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# ==============================
+
+# OS Files
+
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+
+# IDE / Editors
+
+# ==============================
+
+.vscode/
+.idea/
+*.swp
+
+# ==============================
+
+# Logs
+
+# ==============================
+
+*.log
+
+# ==============================
+
+# Data Files (Optional)
+
+# Uncomment if you don't want datasets tracked
+
+# ==============================
+
+# data/
+
+# *.csv
+
+# *.xlsx
+
+# ==============================
+
+# Model Artifacts (OPTIONAL)
+
+# Keep these IF you want deployment-ready repo
+
+# ==============================
+
+# *.pkl
+
+# ==============================
+
+# Large Files
+
+# ==============================
+
+*.zip
+*.tar.gz
