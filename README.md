@@ -5,6 +5,9 @@ This project demonstrates an end-to-end workflow including data preprocessing, m
 
 ---
 
+## Streamlit app - Link
+https://heart-disease-risk-app-msdcxroxnn3fkpwyxe4259.streamlit.app/
+
 ## Overview
 
 This repository contains a Streamlit-based application that estimates cardiovascular risk from clinical parameters.
